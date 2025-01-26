@@ -2,8 +2,8 @@ body {
   font-family: "Arial", sans-serif;
   background: linear-gradient(
     to right,
-    #6a11cb,
-    #2575fc
+    #757477,
+    #010a1a
   ); /* Gradient Background */
   color: #fff;
   margin: 0;
@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
 }
 .container {
-  background: #fff;
+  background: #dbdbdb;
   color: #333;
   border-radius: 10px;
   padding: 20px;
@@ -26,12 +26,12 @@ body {
 h1 {
   font-size: 2rem;
   margin-bottom: 10px;
-  color: #2575fc;
+  color: #000000;
 }
 p {
   font-size: 1rem;
   line-height: 1.5;
-  color: #666;
+  color: #000000;
 }
 
 /* Form Styling */
